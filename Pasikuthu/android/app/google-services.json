@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "807576841346",
+    "project_id": "pasikudhu-fdce3",
+    "storage_bucket": "pasikudhu-fdce3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807576841346:android:6b82fd4ba0994eb5d2589b",
+        "android_client_info": {
+          "package_name": "com.pasikudhu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807576841346-ff8r5f4vdmp1196o342j9kfqrh01qdpe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pasikudhu",
+            "certificate_hash": "ae45385fd43e5bf6a117de7aa51e2c59b2334613"
+          }
+        },
+        {
+          "client_id": "807576841346-fqovfb2jaic8a1pui7fv76senl8cljnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB8Ar8Y4eikjZVRbjrBHUjkxEUOfdtabE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807576841346-fqovfb2jaic8a1pui7fv76senl8cljnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
